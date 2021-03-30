@@ -1,4 +1,4 @@
-![AMANA 2021 - Polybar - by angelessey](https://user-images.githubusercontent.com/79737829/112953808-82722d80-9189-11eb-99ef-9ae5ab491656.png)
+<img src="https://user-images.githubusercontent.com/79737829/112953808-82722d80-9189-11eb-99ef-9ae5ab491656.png" width="700" height="700">
 
 
 # Introduction
