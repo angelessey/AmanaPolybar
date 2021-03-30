@@ -3,7 +3,7 @@
 
 # Introduction
 
-This is a rainmeter skin that runs on the original polybar skin by Khanhas (https://github.com/khanhas/Polybar)
+This is a rainmeter skin that runs on the original Polybar skin by Khanhas (https://github.com/khanhas/Polybar)
 To install, drag and drop the 'Amana for Polybar' folder into your Rainmeter skins folder.
 Once loaded, the top bar will appear.
 
