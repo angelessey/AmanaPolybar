@@ -1,3 +1,6 @@
+![AMANA 2021 - Polybar - by angelessey](https://user-images.githubusercontent.com/79737829/112953808-82722d80-9189-11eb-99ef-9ae5ab491656.png)
+
+
 # Introduction
 
 This is a rainmeter skin that runs on the original polybar skin by Khanhas (https://github.com/khanhas/Polybar)
